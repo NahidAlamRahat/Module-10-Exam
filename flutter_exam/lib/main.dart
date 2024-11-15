@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(Assignment2());
+  runApp(DonateBlood());
 }
 
-class Assignment2 extends StatelessWidget {
-  const Assignment2({super.key});
+class DonateBlood extends StatelessWidget {
+  const DonateBlood({super.key});
 
   @override
   Widget build(BuildContext context) {
